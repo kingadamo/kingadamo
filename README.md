@@ -11,9 +11,10 @@
 ### What I Build
 
 - Embedded systems and circuit projects
-- Backend tools, automation, and bots
+- Full-stack apps, Backend tools, automation, and bots
 - AI / LLM experiments
 - IoT apps and real-world prototypes
+- Cool stuff, and less cool stuff
 - Pretty much anything honestly
 
 ### Build. Break. Learn. Repeat.
