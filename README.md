@@ -1,9 +1,7 @@
 <h1 align="center">Hey, I'm Adam</h1>
 
 <p align="center">
-  Yet another Computer Engineering student
-  <br />
-  Full-time engineering enthusiast
+  Yet another Computer Engineering student · Full-time engineering enthusiast
   <br />
   I like turning dumb ideas into real things.
 </p>
